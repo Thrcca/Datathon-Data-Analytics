@@ -12,3 +12,6 @@ python-dotenv
 google-generativeai
 gdown
 ijson
+flair
+transformers
+torch
