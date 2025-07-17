@@ -12,6 +12,7 @@ python-dotenv
 google-generativeai
 gdown
 ijson
-flair
-transformers
-torch
+flair==0.13.1
+sentence-transformers
+torch==2.0.1
+scipy
