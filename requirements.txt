@@ -5,7 +5,6 @@ pandas == 1.2.4
 keybert
 flair
 click<8
-
 pdfminer.six
 sentence-transformers
 scikit-learn
